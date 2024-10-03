@@ -1,0 +1,20 @@
+package com.pluralsight;
+
+import java.until.scanner;
+
+public class FullName Application {
+public static void main(String[] args) {
+
+scanner scanner = Scanner(System.in);
+
+System.out.println("Dana L. Wyatt");
+
+System.out.print("First Name: ");
+String firstName = scanner.nextLine().trim();
+
+System.out.print("Middle name: ");
+String middleName =scanner.nextLine().trim();sp
+
+
+
+
