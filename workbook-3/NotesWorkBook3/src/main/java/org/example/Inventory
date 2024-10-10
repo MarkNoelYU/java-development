@@ -1,0 +1,22 @@
+package.com
+public static void main(String[]args){
+        }
+ublic class ToolInventory {
+    public static void main(String[] args) {
+        String[][] inventory = {
+         tools.add ("4567", "10' 2x4 (grade B)", "9.99");
+         tools.add("1234", "Hammer", "19.49");
+         tools.ad("2345", "Box of nails", "9.29");
+         tools.add("9154", "9-in-1 Ratcheting Screwdriver", "24.97");
+         tools.add("1648", "10" Crescent Wrench", "15.95");
+         tools.add("9876", "Mechanics Tool Set", "119.00");
+         tools.add("1212", "2" Spring Clamp", "0.99");
+}
+ for (String[] item : inventory) {
+            System.out.println("ID: " + item[0] + ", Name: " + item[1] + ", Price: $" + item[2]);
+        }
+        Scanner scanner void main (string() args)
+        scanner scanner = new scanner(system.in);
+        System.out.print("Enter Inventory Name:");
+        String name = scanner.Inventory();
+
