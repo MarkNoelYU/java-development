@@ -1,6 +1,5 @@
 public class HotelOperations {
    private int roomNumber;
-    private String roomType;
     private int numberOfBeds;
     private boolean isOccupied;
     private boolean isDirty;
@@ -8,7 +7,6 @@ public class HotelOperations {
 
     public int Room(int roomNumber, String roomType, double pricePerNight, int numberOfBeds) {
         this.roomNumber = roomNumber;
-        this.roomType = roomType;
         this.numberOfBeds = numberOfBeds;
         this.isOccupied = false;
         this.isDirty = false;
@@ -23,10 +21,9 @@ public class HotelOperations {
           public double getPrice() {
         }
             public void setPrice()
-
-
         }
 
+        public void
 
 
 
